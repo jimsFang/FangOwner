@@ -14,6 +14,7 @@ import com.jfinal.core.Controller;
 
 public class HistoryController extends Controller {
 	public void index() {
+		
 		String url="http://m.toutiao.com/m4870506287/";
 		String url2="http://m.toutiao.com/m4870506287/p2/";
 		List<HistoryTitle> hts=getTitle3Img(url);
