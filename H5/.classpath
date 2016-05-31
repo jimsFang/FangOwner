@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="config"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/embed7-lib/ecj-4.2.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/embed7-lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/embed7-lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/embed7-lib/tomcat-embed-core.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/embed7-lib/tomcat-embed-jasper.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/embed7-lib/tomcat-embed-logging-juli.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/embed7-lib/tomcat-embed-logging-log4j.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jfinal/jfinal-1.6-bin-with-src.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jfinal/jfinal-1.6-bin.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jfinal/jfinal-ext-2.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/log/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/log/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/log/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/oracle/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/uuid/jug-lgpl-2.0.0.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/c3p0-0.8.4.5.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jstl/javax.servlet.jsp.jstl-1.2.0.v201105211821.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jstl/org.apache.taglibs.standard.glassfish-1.2.0.v201112081803.jar"/>
+	<classpathentry kind="output" path="WebRoot/classes"/>
+</classpath>
